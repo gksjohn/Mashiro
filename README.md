@@ -29,3 +29,6 @@ It works by looking for the tag with the suffix `users入り` that is automatica
 		 - `オリジナル`
 		 - `風景`
  - Only Illustrations and Manga are currently supported.
+
+
+This add-on is licensed under the Creative Commons Attribution (CC BY) license.

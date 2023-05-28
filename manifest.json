@@ -10,15 +10,7 @@
         "128": "./images/mashiro.png"
     },
     "background": {
-        "service_worker": "./background.js"
-    },
-    "action": {
-        "default_icons": {
-            "16": "./images/mashiro.png",
-            "32": "./images/mashiro.png",
-            "64": "./images/mashiro.png",
-            "128": "./images/mashiro.png"
-        }
+        "scripts": ["/background.js"]
     },
     "permissions": [
         "scripting"
